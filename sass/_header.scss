@@ -1,0 +1,41 @@
+#header {
+  z-index: 2;
+  padding: 0 20px 20px;
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+    .logo {
+      a {
+        font-size: 28px;
+      }
+    }
+
+    ul {
+      display: inline-block;
+      padding-right: 25px;
+
+      li {
+        display: inline-block;
+        margin-right: 5px;
+        @include underline-from-center;
+
+        a {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}
+@include max-screen() {
+  #header {
+    .logo, .menu {
+      display: none;
+    }
+    padding: 50px 0 0;
+    text-align: center;
+  }
+}

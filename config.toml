@@ -5,7 +5,6 @@ highlight_code = true
 build_search_index = true
 
 title = "Atsuzaki's site"
-theme = "even"
 
 taxonomies = [
     # You can enable/disable RSS
