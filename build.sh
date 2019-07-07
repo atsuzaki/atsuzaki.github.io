@@ -7,8 +7,9 @@ zola build
 
 mv public/* .
 rm -rf config.toml content sass static themes templaes
+echo "atsuzaki.com" >> CNAME
 git add -f .
-git commit -m "Build $TRAVIS_BUILD_NUMBER"
+git commit -m "Build"
 
 git push -f origin master
 
