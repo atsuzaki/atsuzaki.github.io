@@ -6,7 +6,7 @@
 ### I mostly code for a living and do all sorts of stuffs on my free time.
 ---
 As far as dayjobs go:
-- **I lead the Rust team at [Kodefox](https://kodefox.com/)**. I initiated the company-wide Rust adoption, doing a handful of R&D and writing/recording learning materials and teaching people.
+- **I lead the Rust team at [Kodefox](https://kodefox.com/)**. I initiated the company-wide Rust adoption, doing a handful of R&D, writing/recording learning materials and teaching people.
 - When not preaching Rust, I do regular Kodefox things: building web and mobile apps as a fullstack dev.
 
 On the side,
