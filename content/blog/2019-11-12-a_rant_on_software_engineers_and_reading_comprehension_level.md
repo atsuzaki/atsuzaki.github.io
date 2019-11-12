@@ -34,3 +34,7 @@ But really,
 What the hell is wrong with our CS education? Or really, our education as a whole?
 
 What can we do to stop churning out devs that can't effing read?
+
+---
+
+_Discuss on [Hacker News](https://news.ycombinator.com/item?id=21512928)._
