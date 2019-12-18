@@ -11,4 +11,4 @@ template = "about.html"
 
 
 \#others
-- **[Renaine](https://store.steampowered.com/app/662340/Renaine/)**: a  little action-platformer on Steam and Switch. I do concept art, illustrations, occasional code consulting, and all other sorts of oddjobs with the folks at [Octosoft US](https://twitter.com/OctosoftUS).
+- **[Renaine](https://store.steampowered.com/app/662340/Renaine/)**: an action-platformer on Steam and Switch. I do concept art, illustrations, occasional code consulting, and all other sorts of oddjobs with the folks at [Octosoft US](https://twitter.com/OctosoftUS).
