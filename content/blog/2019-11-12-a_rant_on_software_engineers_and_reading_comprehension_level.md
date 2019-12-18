@@ -6,15 +6,15 @@ date = 2019-11-12
 categories = ["Tech"]
 +++
 
-For the last ~5 months I've been wanting to a blog on my frustrations with programmers: project leads, teammates, mentees, friends—all of whom collectively has a good assorted mix of experience and skillset. Took me a while to properly internalize and reason about the core reason, one true culprit, but here we go. 
+For the last ~5 months, I've been wanting to create a blog on my frustrations with programmers: project leads, teammates, mentees, friends—all of whom collectively have a good assorted mix of experience and skillset. Took me a while to properly internalize and reason about the core cause, one true culprit, but here we go. 
 
-The most important skill to get softwares to run is deciphering error messages. 
+The most important skill to get software to run is deciphering error messages. 
 
-Not writing clean code or all that sorts. Reading error messages.
+Not writing clean code, or any of that sort. Reading error messages.
 
 If that's all you can do, you're probably not writing objectively good software. But atleast *it compiles and runs.* And probably even does it job well, even though looking at a handful of software and websites I use daily, that's regretfully no longer a necessity either.
 
-If you ever glanced at my twitter or worked with me, you'd know that I'm a particularly nitpicky code reviewer who upholds high standards for code cleanliness, decently-not-messy architecture, and performant code (i.e. not doing wasteful allocations or computations; javascript programmers, I hate all of you). A good % of programs that just "compiles and run", under my standards, would go straight into the trash.
+If you ever glanced at my twitter or worked with me, you'd know that I'm a particularly nitpicky code reviewer who upholds high standards for code cleanliness, decently-not-messy architecture, and performant code (i.e. not doing wasteful allocations or computations; javascript programmers, I hate all of you). A good % of programs that just "compile and run", under my standards, would go straight into the trash.  I'm the angriest bitch.
 
 Now you'd ask, why on earth would I put "being able to read error message and get things to work" as the bar?
 
