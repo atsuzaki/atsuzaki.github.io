@@ -14,7 +14,7 @@ Not writing clean code, or any of that sort. Reading error messages.
 
 If that's all you can do, you're probably not writing objectively good software. But atleast *it compiles and runs.* And probably even does it job well, even though looking at a handful of software and websites I use daily, that's regretfully no longer a necessity either.
 
-If you ever glanced at my twitter or worked with me, you'd know that I'm a particularly nitpicky code reviewer who upholds high standards for code cleanliness, decently-not-messy architecture, and performant code (i.e. not doing wasteful allocations or computations; javascript programmers, I hate all of you). A good % of programs that just "compile and run", under my standards, would go straight into the trash.  I'm the angriest bitch.
+If you ever glanced at my twitter or worked with me, you'd know that I'm a particularly nitpicky code reviewer who upholds high standards for code cleanliness, decently-not-messy architecture, and performant code (i.e. not doing wasteful allocations or computations; javascript programmers, I hate all of you). A good % of programs that just "compile and run", under my standards, would go straight into the trash.
 
 Now you'd ask, why on earth would I put "being able to read error message and get things to work" as the bar?
 
