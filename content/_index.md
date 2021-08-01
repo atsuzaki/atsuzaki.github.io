@@ -11,7 +11,7 @@ These days I'm working on the backend compiler for [Habit](https://www.habit-lan
 
 Previously you may have known me as:
 - Rust lead at [Kodefox](https://kodefox.com/). I initiated the company-wide Rust adoption, doing a handful of R&D, writing/recording learning materials and teaching people. When not preaching Rust, I do regular Kodefox things: building web and mobile apps as a fullstack dev.
-- Concept artist & art generalist at Octosoft, developing [Renaine](https://store.steampowered.com/app/662340/Renaine/), a charming
+- Concept artist & art generalist at Octosoft, developing [Renaine](https://store.steampowered.com/app/662340/Renaine/), a charming, quirky action-packed platformer. I do all the non-pixel art and a bunch of random pixel art here and there,
 
 On the side,
 - I irregularly draw and post the results on [Twitter](https://twitter.com/atsuzakii). 
