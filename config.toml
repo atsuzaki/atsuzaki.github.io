@@ -17,9 +17,10 @@ author = "Katherine Philip"
 
 even_menu = [
 #    {url = "$BASE_URL", name = "About"},
-    {url = "https://github.com/atsuzaki/", name = "GitHub"},
-#    {url = "$BASE_URLprojects", name = "Projects"},
 #    {url = "$BASE_URLblog", name = "Blog"},
+    {url = "mailto:kphilip@pdx.edu", name = "kphilip@pdx.edu"},
+#    {url = "https://types.pl/@atsuzaki", name = "Mastodon"},
+    {url = "https://github.com/atsuzaki/", name = "GitHub"},
 ]
 
 even_title = "atsuzaki"

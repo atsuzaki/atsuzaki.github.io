@@ -17,5 +17,4 @@ Previously you may have known me as:
 - Concept artist & art generalist at Octosoft, developing [Renaine](https://store.steampowered.com/app/662340/Renaine/), a charming, quirky action-packed platformer. I do all the non-pixel art and a bunch of random pixel art here and there,
 
 On the side,
-- I irregularly draw and post the results on [Twitter](https://twitter.com/atsuzakii). 
 - When time (and motivation) allows, I love doing short gamejams. You can find some of them here: [https://atsuzaki.itch.io/](https://atsuzaki.itch.io/)
